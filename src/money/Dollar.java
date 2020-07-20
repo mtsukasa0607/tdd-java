@@ -17,4 +17,8 @@ public class Dollar {
     	return amount == dollar.amount;
     }
 
+    int getAmout() {
+    	return this.amount;
+    }
+
 }
