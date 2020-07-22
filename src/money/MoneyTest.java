@@ -35,4 +35,6 @@ public class MoneyTest {
 		assertEquals(Money.dollar(10), reduced);
 	}
 
+
+
 }
